@@ -1,3 +1,1 @@
-# .github
-
-Welcome
+We run cool events.
