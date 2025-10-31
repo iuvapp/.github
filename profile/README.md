@@ -18,5 +18,5 @@ We are a small team to create awesome apps and websites.
 
 ## Try our App
 
-- OnceOne from [AppStore](https://apps.apple.com/us/app/onceone-grouping-to-do-tasks/id6744550176)
+- OnceOne at [AppStore](https://apps.apple.com/us/app/onceone-grouping-to-do-tasks/id6744550176)
 
