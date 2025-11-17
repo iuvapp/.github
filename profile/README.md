@@ -13,8 +13,8 @@
 
 We are a small team to create awesome apps and websites.
 
-- Discuss anything [here](https://github.com/manaio-com/.github/discussions)
-- Report issues [here](https://github.com/manaio-com/.github/issues)
+- Discuss anything [here](https://github.com/manalify/.github/discussions)
+- Report issues [here](https://github.com/manalify/.github/issues)
 
 ## Try our App
 
